@@ -1,0 +1,10 @@
+{
+  "modid": "Astrology",
+  "name": "星象实例模组",
+  "author_list": ["kdash"],
+  "description": "星象实例模组",
+  "version": "0.1",
+  "sts_version": "12-18-2022",
+  "mts_version": "3.30.3",
+  "dependencies": ["basemod"]
+}
